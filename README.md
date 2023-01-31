@@ -12,7 +12,7 @@
 
 - 💬 Ask me about 🎆🎆 **`React.js - Node.js - JavaScript - Html - Css - OOP's`** 🎆🎆
 
-- 🧑‍💻 IDE's ✨**`Visual-Studio-Code - IntelliJ`**✨
+- 🧑‍💻 IDE's ✨ **`Visual-Studio-Code - IntelliJ`** ✨
 
 - 📫 How to reach me 📧📧**rahber.hussain83@gmail.com**📧📧
 
