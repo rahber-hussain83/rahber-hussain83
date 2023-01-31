@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p>
 
-- 🌱 I’m currently learning **DevOps - React.js - and - Many More**
+- 🌱 I’m currently learning  **DevOps - React.js - and - Many More**
 
-- 💬 Ask me about **react - Node.js**
+- 💬 Ask me about  **React.js - Node.js**
 
 - 📫 How to reach me **rahber.hussain83@gmail.com**
 
