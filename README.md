@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps - React.js - and - Many More**
 
-- 💬 Ask me about **react - Node.js**
+- 💬 Ask me about ** React.js - Node.js**
 
 - 📫 How to reach me **rahber.hussain83@gmail.com**
 
