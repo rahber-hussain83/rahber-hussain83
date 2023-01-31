@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahber Hussain</h1>
-<h3 align="center">A passionate developer and learner from India.
-                   I love learning new techs and using new tools.</h3>
+<h3 align="center">A passionate developer and learner from India.</h3>
+<h3 align="center"> I love learning new techs and using new tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p>
 
 - 🌱 I’m currently learning **DevOps - React.js - and - Many More**
 
-- 💬 Ask me about ** React.js - Node.js**
+- 💬 Ask me about **react - Node.js**
 
 - 📫 How to reach me **rahber.hussain83@gmail.com**
 
@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahber-hussain83&show_icons=true&locale=en&layout=compact" alt="rahber-hussain83" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahber-hussain83&show_icons=true&locale=en" alt="rahber-hussain83" /></p>
-
