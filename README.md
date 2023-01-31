@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahber Hussain</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=✨+Full+Stack+Web+Developer..<3+✨"></a>
 </p>
 <h3 align="center">A passionate developer and learner from India.</h3> 
 <h3 align="center">I love learning new techs and using new tools.</h3>
